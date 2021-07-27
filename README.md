@@ -1,4 +1,8 @@
+# Netflix Home Clone App - ReactJS
+
 Esta app simula la página principal de Netflix, listando una serie de películas que se obtiene de la API de [TMDB](https://www.themoviedb.org/) la idea principal de desarrollar esta aplicación es poner en practica mis conocimientos para desarrollar una UI usando alguna referencia, conectarme a una API utilizando las mejores practicas y mejorar mis habilidades en ReactJS.
+
+[Live Demo](https://netflix-home-clone-reactjs.netlify.app/)
 
 ## Características
 Las funciones principales que se pueden encontrar en esta App son las siguientes:
@@ -20,7 +24,7 @@ Algunas de las mejoras que tengo pensado aplicar para esta aplicación son la si
 
 ## Screenshots
 
-![Netflix Clone App with ReactJS](https://giphy.com/embed/MfUKdoe31T8mS5QPbb)
+![Netflix Clone App with ReactJS](https://media.giphy.com/media/MfUKdoe31T8mS5QPbb/giphy.gif)
 
 ## Contacto
 
