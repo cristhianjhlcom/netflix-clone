@@ -28,4 +28,4 @@ Algunas de las mejoras que tengo pensado aplicar para esta aplicación son la si
 
 ## Contacto
 
-Puedes ponerte en contacto conmigo a través de mi sitio web [cristhianjhl.com](cristhianjhl.com) o mi [correo](cristhianjhl@gmail.com)
+Puedes ponerte en contacto conmigo a través de mi sitio web [cristhianjhl.com](https://www.cristhianjhl.com) o mi **cristhianjhl@gmail.com**
